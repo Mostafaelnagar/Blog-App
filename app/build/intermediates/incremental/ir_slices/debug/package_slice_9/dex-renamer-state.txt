@@ -1,0 +1,4 @@
+#Sat Jan 12 15:55:17 EET 2019
+base.0=F\:\\fci\\fci\\android\\Workspace\\BlogApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

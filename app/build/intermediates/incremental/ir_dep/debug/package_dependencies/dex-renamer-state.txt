@@ -1,0 +1,7 @@
+#Sat Jan 12 15:55:10 EET 2019
+base.0=F\:\\fci\\fci\\android\\Workspace\\BlogApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\fci\\fci\\android\\Workspace\\BlogApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
