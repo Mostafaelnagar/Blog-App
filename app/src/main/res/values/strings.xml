@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="password">Enter Your Password</string>
+    <string name="email"> Enter Your Email</string>
+    <string name="login_reg_acc">Need a New Account</string>
+    <string name="login_btn_text">Login To Account</string>
+    <string name="action_search">Search</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="logout">Logout</string>
+    <string name="reg_btn_text">Create New Account</string>
+    <string name="have_account_btn">Already have an account</string>
+    <string name="reg_hint_pass">Confirm Password</string>
+    <string name="setup_name_hint">Your Name</string>
+    <string name="setup_button_text">Save my Account Settings</string>
+    <string name="new_Post_desc">Add Post Description</string>
+    <string name="btn_Post_Post">Add New Post</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">Notifications</string>
+    <string name="bottom_account_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_comment">Your Comment here ...</string>
+</resources>
